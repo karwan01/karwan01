@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an enterprise software application called cardhouzz<br>👯 I’m looking to collaborate on any kind of Micro Frontend projects<br>🌱 I’m currently deep dive into TypeScript and dart<br>💬 Ask me about<br>
+🔭 I’m currently working on an enterprise software application called cardhouzz<br>👯 I’m looking to collaborate on any kind of Micro Frontend projects<br>🌱 I’m currently deep dive into TypeScript and dart<br>
 
 
 ## 🌐 Socials:
